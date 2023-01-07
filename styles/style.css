@@ -35,8 +35,43 @@
   border-radius: 5px;
   color: #005FAC;
 }
-.btn-contact{
+#btn-contact{
   text-align: right;
   padding: 0px 230px 165px;
 }
+
+/* Section one styles */
+.section-container{
+  display: flex;
+  gap: 80px;
+  align-items: center;
+}
+.section-item{
+  padding: 370px 320px 215px 80px;
+}
+.section-container img{
+  padding: 130px 0px 130px 200px;
+  width: 570px;
+  height: 720px;
+}
+.section-title{
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  padding-bottom: 25px;
+  color: #151414;
+}
+.section-sub{
+  font-size: 16px;
+  line-height: 26px;
+  padding-bottom: 15px;
+  color: #444343;
+}
+.section-description{
+  font-size: 16px;
+  line-height: 30px;
+  color: #444343;
+}
+
+/*  */
 
