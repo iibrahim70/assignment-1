@@ -46,7 +46,7 @@
   gap: 80px;
   align-items: center;
 }
-.section-item{
+.section-one-item{
   padding: 370px 320px 215px 80px;
 }
 .section-container img{
@@ -73,5 +73,37 @@
   color: #444343;
 }
 
-/*  */
+/* Section two styles */
+.section-heading{
+  text-align: center;
+  padding-bottom: 50px;
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+}
+.plans-container{
+  display: flex;
+  padding: 0px 230px 130px 230px;
+}
+.section-item{
+  padding: 0px 55px 100px 55px;
+  text-align: center;
+}
+.section-item img{
+  width: 92.96px;
+  height: 92.96px;
+}
+.plan-title{
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  margin-bottom: 15px;
+  color: #151414;
+}
+.plan-description{
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  color: #737272;
+}
 
