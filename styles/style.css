@@ -23,7 +23,7 @@
   font-size: 16px;
   line-height: 26px;
   text-align: right;
-  padding: 0px 230px 32px 875px;
+  padding: 0 230px 32px 875px;
   color: #FFFFFF;
 }
 .btn-primary{
@@ -37,7 +37,7 @@
 }
 #btn-contact{
   text-align: right;
-  padding: 0px 230px 165px;
+  padding: 0 230px 165px;
 }
 
 /* Section one styles */
@@ -50,7 +50,7 @@
   padding: 370px 320px 215px 80px;
 }
 .section-container img{
-  padding: 130px 0px 130px 200px;
+  padding: 130px 0 130px 200px;
   width: 570px;
   height: 720px;
 }
@@ -83,15 +83,15 @@
 }
 .plans-container{
   display: flex;
-  padding: 0px 230px 130px 230px;
+  padding: 0 230px 130px 230px;
 }
 .section-item{
-  padding: 0px 55px 100px 55px;
+  padding: 0 55px 100px 55px;
   text-align: center;
 }
 .section-item img{
-  width: 92.96px;
-  height: 92.96px;
+  width: 92px;
+  height: 92px;
 }
 .plan-title{
   font-weight: 700;
@@ -107,3 +107,21 @@
   color: #737272;
 }
 
+/* Section three styles */
+.banner-container{
+  margin: 0 230px 130px 230px;
+  background-image: url(../images/gradient1.png), url(../images/watch.png);
+  height: 300px;
+  border-radius: 8px;
+}
+.ban-title{
+  padding: 60px 600px 20px 65px;
+  text-align: left;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #FFFFFF;
+}
+#btn-call{
+  padding: 0 920px 60px 65px;
+}
