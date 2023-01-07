@@ -125,3 +125,56 @@
 #btn-call{
   padding: 0 920px 60px 65px;
 }
+
+/* Section four styles */
+.contact-container{
+  display: flex;
+  background: #151414;
+  height: 575px;
+}
+.contact-ione{
+  padding: 130px 300px 130px 220px;
+}
+.contact-itwo{
+  padding: 130px 260px 240px 0;
+}
+.contact-title{
+  font-weight: 700;
+  font-size: 45px;
+  color: #F8F8F8;
+}
+.contact-description{
+  margin-top: 15px;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FFFFFF;
+}
+.email-adress{
+  margin-top: 25px;
+  width: 185px;
+  height: 25px;
+  color: #FFFFFF;
+}
+.phone-number{
+  margin-top: 15px;
+  margin-bottom: 30px;
+  width: 185px;
+  height: 25px;
+  color: #FFFFFF;
+}
+.contact-ione a{
+  text-decoration: none;
+}
+.sec-title{
+  font-weight: 600;
+  font-size: 25px;
+  color: #FFFFFF;
+  margin-bottom: 30px;
+}
+.contact-itwo input{
+  margin-bottom: 20px;
+  border: none;
+  width: 100%;
+  padding: 18px 30px;
+  border-radius: 5px;
+}
